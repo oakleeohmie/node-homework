@@ -34,9 +34,7 @@ function promptUser() {
         });
 
     };
-    \
-
     function init() {
 
         init();
-    };
+    }
