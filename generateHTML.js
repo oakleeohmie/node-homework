@@ -171,4 +171,6 @@ function generateHTML(data) {
             } 
            }
         </style>`
+
+
 }
